@@ -19,6 +19,7 @@ const StatisticLine = (props) => {
   }
 }
 
+
 const Statistics = (props) => {
   const { good, neutral, bad } = props
   
